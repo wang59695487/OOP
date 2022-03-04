@@ -1,0 +1,3 @@
+/Users/gakiara/Desktop/oop project/opencvdemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gakiara/Desktop/oop project/opencvdemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gakiara/Desktop/oop project/opencvdemo/cmake-build-debug/CMakeFiles/opencvdemo.dir
